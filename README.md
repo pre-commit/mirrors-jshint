@@ -4,6 +4,7 @@ jshint mirror
 Mirror of jshint package for pre-commit.
 
 For pre-commit: see https://github.com/pre-commit/pre-commit
+
 For jshint: see https://github.com/jshint/jshint
 
 
