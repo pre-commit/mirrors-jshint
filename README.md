@@ -7,7 +7,7 @@ For pre-commit: see https://github.com/pre-commit/pre-commit
 For jshint: see https://github.com/jshint/jshint
 
 
-### Using scss-lint with pre-commit
+### Using jshint with pre-commit
 
 Add this to your `.pre-commit-config.yaml`:
 
