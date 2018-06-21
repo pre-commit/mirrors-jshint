@@ -13,6 +13,6 @@ For jshint: see https://github.com/jshint/jshint
 Add this to your `.pre-commit-config.yaml`:
 
     -   repo: https://github.com/pre-commit/mirrors-jshint
-        sha: ''  # Use the sha you want to point at
+        rev: ''  # Use the sha / tag you want to point at
         hooks:
         -   id: jshint
