@@ -4,4 +4,4 @@
     language: node
     'types': [javascript]
     args: []
-    additional_dependencies: ["jshint@2.10.1"]
+    additional_dependencies: ["jshint@2.10.2"]
