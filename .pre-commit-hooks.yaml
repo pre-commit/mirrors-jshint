@@ -5,4 +5,4 @@
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["jshint@2.11.0-rc1"]
+    additional_dependencies: ["jshint@2.11.0"]
