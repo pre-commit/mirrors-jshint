@@ -1,9 +1,10 @@
 -   id: jshint
     name: jshint
+    description: ''
     entry: jshint
     language: node
     'types': [javascript]
     args: []
     require_serial: false
-    additional_dependencies: ["jshint@2.13.4"]
+    additional_dependencies: ["jshint@2.13.5"]
     minimum_pre_commit_version: '0'
